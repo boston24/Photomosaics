@@ -1,6 +1,6 @@
 # Photomosaics
 An application used for making a photomosaic using 'pillow' library. 
-User can choose size of pixels. Original image is stored in 'InputImage' directory. Source images are stored in 'SourceImages'.
+User can choose size of the pixels. Original image is stored in 'InputImage' directory. Source images are stored in 'SourceImages'.
 File 'rgbsource.txt' is used to store average RGB values of source images to speed up the program. Its contents should be deleted each time when 'SourceImages' directory contents are modified.
 Function 'crop_sourceIMG' should be disabled after first compilation unless 'SourceImages' directory contents are modified.
 
