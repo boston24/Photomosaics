@@ -6,7 +6,7 @@ Function 'crop_sourceIMG' should be disabled after first compilation unless 'Sou
 
 ## Known issues:
 - random rotation of source images
-- might occur memory error for big numbers of source images (tested up to 2000 photos)
+- might occur memory error for big number of source images (tested up to 2000 photos)
 
 
 
